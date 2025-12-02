@@ -34,7 +34,8 @@
 
 ### 📊 GitHub Stats
 ![Lalisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalifb&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalifb&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalifb&layout=compact&theme=radical)
+  
 
 ---
 
