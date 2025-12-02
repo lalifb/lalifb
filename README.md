@@ -5,11 +5,12 @@
 ---
 
 ### 🌱 About Me
-- 🎓 4th year Computer Science student at Jimma University  
+🎓 4th year Computer Science student at Jimma University  
 - ⚡ Skilled in MERN stack, Python, and Telegram bot development  
 - 🔐 Exploring malware simulation, cryptography, and proactive defense strategies  
 - 🎨 Passionate about clarity, accessibility, and culturally sensitive communication  
-- 📚 Sharing reproducible, assignment-ready solutions and community-friendly resources  
+- 🌟 Crafting secure, innovative solutions with clarity and community impact
+  
 
 ---
 
