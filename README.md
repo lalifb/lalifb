@@ -25,8 +25,10 @@
 
 ### 🚀 Featured Projects
 - 🔐 **LogicShield Security Bot** — Telegram bot for digital defense education  
-- 📚 **Cryptography Assignments** — formatted, reproducible solutions  
-- 🌍 **Community-focused posters** for security awareness  
+🥗 **MealMood+Care** — Full-stack web app offering personalized nutrition and emotional wellness support, featuring a multilingual chatbot (English, Amharic, Afaan Oromo) and smart meal recommendations  
+🚦 **TrafficSafety** — Application designed to promote safe driving habits and awareness through interactive tools and resources  
+🍴 **FoodRestaurant** — Dynamic restaurant management system with menu browsing, ordering, and customer engagement features  
+🛒 **ShoppingCart** — E-commerce solution with product listing, cart management, and streamlined checkout experience   
 
 ---
 
@@ -36,9 +38,14 @@
 
 ---
 
-### 📫 Connect with Me
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- ORCID iD: [Your ORCID](https://orcid.org/your-id)  
-- Telegram: [@YourHandle](https://t.me/yourhandle)  
+### 📫 Connect with Me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lalifb)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/your-id)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourhandle)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lalif_borana?igsh=MXY5d3licWlkN2Q2dA==)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@example.com)  
+
 
 -->
